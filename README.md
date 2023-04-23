@@ -14,6 +14,7 @@
   <img align="center" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Carol-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Carol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Carol-C#" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/4f524b9e755bd3371c013d5091c38ca2.gif" align="right" alt="Carol-pic" height="150" style="border-radius:50px;" /></a><br /><a href="https://picasion.com/"></a>
 </div> 
   
